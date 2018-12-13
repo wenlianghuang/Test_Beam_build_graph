@@ -18,7 +18,7 @@ for_tfrecord.find_path_name()
 
 tfrecord_filename = sys_tfrecords_name
 
-
+###disappear at 12/12####
 #if(os.listdir(dir_root) == sys_tfrecords_subdirecotry):
 #    tmp_path = os.join(dir_root,sys_tfrecords_subdirecotry)
 #    if(os.listdir(tmp_path) == sys_tfrecords_name):
